@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="adding lab003 file">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/lab014.py" afterDir="false" />
+    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Variables and Data Types">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/labo25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,10 +71,22 @@
     "Python.lab012.executor": "Run",
     "Python.lab013.executor": "Run",
     "Python.lab014.executor": "Run",
+    "Python.lab015.executor": "Run",
+    "Python.lab016.executor": "Run",
+    "Python.lab017.executor": "Run",
+    "Python.lab018.executor": "Run",
+    "Python.lab019.executor": "Run",
+    "Python.lab020.executor": "Run",
+    "Python.lab021.executor": "Run",
+    "Python.lab022.executor": "Run",
+    "Python.lab023.executor": "Run",
+    "Python.lab024.executor": "Run",
+    "Python.lab026.executor": "Run",
+    "Python.labo25.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -117,13 +129,33 @@
       <option name="project" value="LOCAL" />
       <updated>1717487212649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1717679207772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717679207772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab001 file" />
     <MESSAGE value="adding lab002 file" />
     <MESSAGE value="adding lab003 file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab003 file" />
+    <MESSAGE value="Variables and Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data Types" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_07062024/lab020.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
