@@ -14,5 +14,4 @@ print(f'{num}*3={num * 3}')
 # or
 b = 1
 print(f"{b}*1={b}")
-#print("2x{}={},{}".format(*args:b,b*2,3))
-
+print("2x{}={},{}".format(b, b * 2, b * 3))
