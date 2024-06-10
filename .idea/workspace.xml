@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Lists,strings">
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab036.py" afterDir="false" />
+    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Literals and Operators">
+      <change afterPath="$PROJECT_DIR$/Tasks10062024/Task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks10062024/Task02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_05062024/lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_05062024/lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_07062024/lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_07062024/lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_10062024/lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_10062024/lab035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task01.executor": "Run",
+    "Python.Task02.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
@@ -98,8 +91,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab036">
-    <configuration name="lab032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task02">
+    <configuration name="Task01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_10062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks10062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_10062024/lab032.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks10062024/Task01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_10062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks10062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_10062024/lab033.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks10062024/Task02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task02" />
+        <item itemvalue="Python.Task01" />
         <item itemvalue="Python.lab036" />
         <item itemvalue="Python.lab035" />
         <item itemvalue="Python.lab034" />
-        <item itemvalue="Python.lab033" />
-        <item itemvalue="Python.lab032" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717825953285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Literals and Operators">
+      <option name="closed" value="true" />
+      <created>1718016286934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718016286934</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,7 +285,8 @@
     <MESSAGE value="adding lab003 file" />
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Lists,strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists,strings" />
+    <MESSAGE value="Literals and Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Literals and Operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,6 +295,10 @@
           <url>file://$PROJECT_DIR$/ex_07062024/lab020.py</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_10062024/lab035.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

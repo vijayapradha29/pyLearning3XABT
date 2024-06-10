@@ -1,4 +1,4 @@
-# write a program to calculate area of the circle
+alculate area of the circle
 # input->radius
 # output->area of circle
 #we have taken float becoz user can give radius in points also
