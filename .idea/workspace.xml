@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Literals and Operators">
-      <change afterPath="$PROJECT_DIR$/Tasks10062024/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks10062024/Task02.py" afterDir="false" />
+    <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Task10062024">
+      <change afterPath="$PROJECT_DIR$/Task2 12062024/Leap Year Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2 12062024/Triangle Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/lab037.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_10062024/lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_10062024/lab035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Leap Year Checker.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
+    "Python.Triangle Classifier.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
@@ -84,6 +86,7 @@
     "Python.lab034.executor": "Run",
     "Python.lab035.executor": "Run",
     "Python.lab036.executor": "Run",
+    "Python.lab037.executor": "Run",
     "Python.labo25.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -91,7 +94,29 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task02">
+  <component name="RunManager" selected="Python.Triangle Classifier">
+    <configuration name="Leap Year Checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyLearning3x ABT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task2 12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 12062024/Leap Year Checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
@@ -136,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Triangle Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_10062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task2 12062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_10062024/lab034.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 12062024/Triangle Classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,33 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_10062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_12062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_10062024/lab035.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyLearning3x ABT" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_10062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_10062024/lab036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_12062024/lab037.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Triangle Classifier" />
+        <item itemvalue="Python.Leap Year Checker" />
+        <item itemvalue="Python.lab037" />
         <item itemvalue="Python.Task02" />
         <item itemvalue="Python.Task01" />
-        <item itemvalue="Python.lab036" />
-        <item itemvalue="Python.lab035" />
-        <item itemvalue="Python.lab034" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718016286934</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task10062024">
+      <option name="closed" value="true" />
+      <created>1718034578739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718034578739</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,7 +297,8 @@
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Lists,strings" />
     <MESSAGE value="Literals and Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Literals and Operators" />
+    <MESSAGE value="Task10062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task10062024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
