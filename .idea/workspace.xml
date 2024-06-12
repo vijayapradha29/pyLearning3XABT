@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b70ec3f-a83e-44fa-a750-00b168f66e1d" name="Changes" comment="Task12062024">
-      <change afterPath="$PROJECT_DIR$/Task2 12062024/factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,57 +43,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Factorial.executor": "Run",
-    "Python.Leap Year Checker.executor": "Run",
-    "Python.Task01.executor": "Run",
-    "Python.Task02.executor": "Run",
-    "Python.Triangle Classifier.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.lab001.executor": "Run",
-    "Python.lab002.executor": "Run",
-    "Python.lab003.executor": "Run",
-    "Python.lab004.executor": "Run",
-    "Python.lab005.executor": "Run",
-    "Python.lab006.executor": "Run",
-    "Python.lab007.executor": "Run",
-    "Python.lab008.executor": "Run",
-    "Python.lab009.executor": "Run",
-    "Python.lab010.executor": "Run",
-    "Python.lab011.executor": "Run",
-    "Python.lab012.executor": "Run",
-    "Python.lab013.executor": "Run",
-    "Python.lab014.executor": "Run",
-    "Python.lab015.executor": "Run",
-    "Python.lab016.executor": "Run",
-    "Python.lab017.executor": "Run",
-    "Python.lab018.executor": "Run",
-    "Python.lab019.executor": "Run",
-    "Python.lab020.executor": "Run",
-    "Python.lab021.executor": "Run",
-    "Python.lab022.executor": "Run",
-    "Python.lab023.executor": "Run",
-    "Python.lab024.executor": "Run",
-    "Python.lab026.executor": "Run",
-    "Python.lab027.executor": "Run",
-    "Python.lab028.executor": "Run",
-    "Python.lab030.executor": "Run",
-    "Python.lab031.executor": "Run",
-    "Python.lab032.executor": "Run",
-    "Python.lab033.executor": "Run",
-    "Python.lab034.executor": "Run",
-    "Python.lab035.executor": "Run",
-    "Python.lab036.executor": "Run",
-    "Python.lab037.executor": "Run",
-    "Python.labo25.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci Series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leap Year Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triangle Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labo25.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.factorial">
+}</component>
+  <component name="RunManager">
     <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leap Year Checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fibonacci Series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 12062024/Leap Year Checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 12062024/Fibonacci Series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyLearning3x ABT" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_12062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task2 12062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_12062024/lab037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 12062024/fibonacci series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Triangle Classifier" />
+        <item itemvalue="Python.fibonacci series" />
+        <item itemvalue="Python.Fibonacci Series" />
         <item itemvalue="Python.factorial" />
         <item itemvalue="Python.Factorial" />
-        <item itemvalue="Python.Triangle Classifier" />
-        <item itemvalue="Python.Leap Year Checker" />
-        <item itemvalue="Python.lab037" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718162424689</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task12062024">
+      <option name="closed" value="true" />
+      <created>1718175664174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718175664175</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
